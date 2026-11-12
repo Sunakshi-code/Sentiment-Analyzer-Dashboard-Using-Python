@@ -1,0 +1,101 @@
+﻿Review_ID,Customer_Name,Product,Review_Date,Rating,Customer_Review,Sentiment
+R001,Aarav,Wireless Earbuds,1/10/2026,5,Amazing sound quality and battery life. Worth every rupee.,Positive
+R002,Diya,Smart Watch,2/10/2026,4,The watch looks good and works smoothly.,Positive
+R003,Kabir,Laptop Stand,2/10/2026,2,The stand feels weak and keeps wobbling.,Negative
+R004,Meera,Water Bottle,3/10/2026,3,It is an average bottle. Nothing special.,Neutral
+R005,Ishaan,Bluetooth Speaker,3/10/2026,5,Clear audio and excellent bass. I love it.,Positive
+R006,Anaya,Phone Case,4/10/2026,1,Very poor quality. It broke within two days.,Negative
+R007,Rohan,USB Cable,4/10/2026,4,Good cable and fast charging. Happy with it.,Positive
+R008,Sara,Backpack,5/10/2026,3,The size is fine but the material is ordinary.,Neutral
+R009,Vivaan,Keyboard,5/10/2026,2,Some keys stopped working after a week.,Negative
+R010,Myra,Desk Lamp,6/10/2026,5,"Bright light, simple design, and easy to use.",Positive
+R011,Aditya,Wireless Mouse,6/10/2026,4,Comfortable to use and connects quickly.,Positive
+R012,Ira,Power Bank,7/10/2026,1,It does not charge my phone properly. Disappointed.,Negative
+R013,Arjun,Notebook,7/10/2026,3,Paper quality is okay for daily notes.,Neutral
+R014,Aanya,Running Shoes,8/10/2026,5,Very comfortable shoes. Great for walking.,Positive
+R015,Dev,Coffee Maker,8/10/2026,2,Difficult to clean and the coffee is not hot enough.,Negative
+R016,Kiara,Sunglasses,9/10/2026,4,Nice style and comfortable fit.,Positive
+R017,Reyansh,Tablet Cover,9/10/2026,3,"It fits the tablet, but the stand is not very stable.",Neutral
+R018,Saanvi,Headphones,10/10/2026,1,Uncomfortable and the sound keeps cutting out.,Negative
+R019,Atharv,External Drive,10/10/2026,5,Transfer speed is excellent. Works perfectly.,Positive
+R020,Avni,Lunch Box,11/10/2026,3,"It keeps food fresh, but the compartments are small.",Neutral
+R021,Krish,Monitor,11/10/2026,5,Sharp display and vibrant colours. Excellent purchase.,Positive
+R022,Pari,Hair Dryer,12/10/2026,2,Too noisy and takes a long time to dry hair.,Negative
+R023,Yash,Mouse Pad,12/10/2026,4,Smooth surface and good size for my desk.,Positive
+R024,Tara,Wall Clock,13/10/2026,3,Looks decent and tells time. It is just basic.,Neutral
+R025,Neil,Fitness Band,13/10/2026,1,The app disconnects often and tracking is inaccurate.,Negative
+R026,Riya,Travel Mug,14/10/2026,5,Keeps my drink warm for hours. Very useful.,Positive
+R027,Manav,Office Chair,14/10/2026,2,The chair is uncomfortable for long working hours.,Negative
+R028,Zoya,Pen Set,15/10/2026,4,Writes smoothly and the colours are lovely.,Positive
+R029,Dhruv,Bluetooth Speaker,15/10/2026,3,"Sound is acceptable, but volume could be better.",Neutral
+R030,Nisha,Wireless Earbuds,16/10/2026,1,One earbud stopped working. Not worth the price.,Negative
+R031,Om,Smart Watch,16/10/2026,5,Easy setup and useful features. Highly satisfied.,Positive
+R032,Aditi,Backpack,17/10/2026,4,Spacious bag with strong zippers.,Positive
+R033,Kunal,Laptop Stand,17/10/2026,3,"It does the job, although assembly was confusing.",Neutral
+R034,Mahi,Water Bottle,18/10/2026,2,The lid leaks and the bottle is difficult to carry.,Negative
+R035,Samar,Keyboard,18/10/2026,5,Typing feels great and the keys are responsive.,Positive
+R036,Ishita,Phone Case,19/10/2026,4,Good protection and a nice finish.,Positive
+R037,Pranav,Power Bank,19/10/2026,3,Charging speed is average. It is useful in emergencies.,Neutral
+R038,Navya,Desk Lamp,20/10/2026,1,The switch stopped working very quickly.,Negative
+R039,Aarush,Running Shoes,20/10/2026,5,"Lightweight, comfortable, and perfect for daily use.",Positive
+R040,Pihu,Coffee Maker,21/10/2026,4,Makes good coffee and is simple to operate.,Positive
+R041,Rudra,USB Cable,21/10/2026,2,The cable feels cheap and charges very slowly.,Negative
+R042,Ishani,Notebook,22/10/2026,3,"The pages are fine, but the cover is quite plain.",Neutral
+R043,Shaurya,Monitor,22/10/2026,5,Excellent picture quality and easy installation.,Positive
+R044,Aarohi,Hair Dryer,23/10/2026,1,Stopped heating after a few uses. Very unhappy.,Negative
+R045,Vihaan,Wireless Mouse,23/10/2026,4,Accurate tracking and comfortable grip.,Positive
+R046,Kavya,Lunch Box,24/10/2026,3,Average product with enough space for a small meal.,Neutral
+R047,Arnav,External Drive,24/10/2026,2,The drive disconnects randomly. Not reliable.,Negative
+R048,Esha,Sunglasses,25/10/2026,5,Beautiful design and excellent comfort.,Positive
+R049,Laksh,Tablet Cover,25/10/2026,4,Fits perfectly and protects the tablet well.,Positive
+R050,Ayesha,Fitness Band,26/10/2026,1,Battery drains quickly and the readings are wrong.,Negative
+R051,Madhav,Travel Mug,26/10/2026,3,"It works as expected, but nothing stands out.",Neutral
+R052,Siya,Office Chair,27/10/2026,5,Supportive and comfortable. Great for studying.,Positive
+R053,Ritvik,Pen Set,27/10/2026,2,Several pens do not write smoothly.,Negative
+R054,Tanvi,Wall Clock,28/10/2026,4,Looks elegant and works without any issue.,Positive
+R055,Veer,Headphones,28/10/2026,3,Sound quality is okay for the price.,Neutral
+R056,Anvi,Wireless Earbuds,29/10/2026,5,Fantastic audio and a reliable connection.,Positive
+R057,Abeer,Smart Watch,29/10/2026,2,The screen freezes and the battery life is poor.,Negative
+R058,Rhea,Backpack,30/10/2026,3,"Good capacity, but the straps could be softer.",Neutral
+R059,Nakul,Laptop Stand,30/10/2026,4,Sturdy enough and helps keep my desk organized.,Positive
+R060,Mira,Water Bottle,31/10/2026,1,The bottle arrived damaged and leaks badly.,Negative
+R061,Aadi,Bluetooth Speaker,1/11/2026,5,Powerful sound for its size. Very impressed.,Positive
+R062,Sia,Phone Case,1/11/2026,3,The case fits well but attracts fingerprints.,Neutral
+R063,Parth,Keyboard,2/11/2026,2,Keys are stiff and typing is uncomfortable.,Negative
+R064,Vanya,Desk Lamp,2/11/2026,4,Good brightness and useful adjustable angle.,Positive
+R065,Raghav,Power Bank,3/11/2026,5,Charges my phone multiple times. Excellent value.,Positive
+R066,Aashi,Running Shoes,3/11/2026,2,The sole feels hard and causes discomfort.,Negative
+R067,Tanish,Coffee Maker,4/11/2026,3,"Coffee tastes fine, but brewing takes a while.",Neutral
+R068,Mishka,Wireless Mouse,4/11/2026,5,Fast response and a very comfortable design.,Positive
+R069,Harsh,USB Cable,5/11/2026,1,Stopped charging after one day. Poor product.,Negative
+R070,Diya,Monitor,5/11/2026,4,Clear screen and good value for the money.,Positive
+R071,Kabir,Notebook,6/11/2026,3,Useful notebook with average paper quality.,Neutral
+R072,Meera,Hair Dryer,6/11/2026,5,Dries quickly and is easy to handle.,Positive
+R073,Ishaan,External Drive,7/11/2026,2,Transfer speed is much slower than advertised.,Negative
+R074,Anaya,Lunch Box,7/11/2026,4,Leak-resistant and easy to wash.,Positive
+R075,Rohan,Fitness Band,8/11/2026,3,"Basic tracking works, but the app needs improvement.",Neutral
+R076,Sara,Sunglasses,8/11/2026,1,The frame feels fragile and arrived scratched.,Negative
+R077,Vivaan,Office Chair,9/11/2026,4,Comfortable seat and simple assembly.,Positive
+R078,Myra,Tablet Cover,9/11/2026,5,Perfect fit and a useful stand. Very happy.,Positive
+R079,Aditya,Travel Mug,10/11/2026,2,The lid is difficult to close and leaks sometimes.,Negative
+R080,Ira,Wall Clock,10/11/2026,3,It looks fine and works as described.,Neutral
+R081,Arjun,Headphones,11/11/2026,4,Comfortable fit and balanced sound.,Positive
+R082,Aanya,Pen Set,11/11/2026,1,Ink runs out quickly and some pens are damaged.,Negative
+R083,Dev,Mouse Pad,11/11/2026,3,"The size is suitable, but the edges are ordinary.",Neutral
+R084,Kiara,Smart Watch,12/11/2026,5,"Great display, useful notifications, and smooth performance.",Positive
+R085,Reyansh,Backpack,12/11/2026,2,The stitching looks weak and the bag feels overpriced.,Negative
+R086,Saanvi,Water Bottle,12/11/2026,4,Easy to clean and keeps water cool.,Positive
+R087,Atharv,Laptop Stand,12/11/2026,3,"Stable on my desk, but a little heavier than expected.",Neutral
+R088,Avni,Wireless Earbuds,12/11/2026,2,Connection drops frequently and controls are confusing.,Negative
+R089,Krish,Desk Lamp,12/11/2026,5,Excellent lighting for reading and studying.,Positive
+R090,Pari,Power Bank,12/11/2026,3,"It charges adequately, though it takes time to recharge.",Neutral
+R091,Yash,Running Shoes,12/11/2026,4,Good grip and comfortable for everyday walking.,Positive
+R092,Tara,Coffee Maker,12/11/2026,1,Leaked during the first use. Very disappointing.,Negative
+R093,Neil,Keyboard,12/11/2026,4,Nice typing experience and simple setup.,Positive
+R094,Riya,Phone Case,12/11/2026,3,The design is okay and protection seems average.,Neutral
+R095,Manav,Bluetooth Speaker,12/11/2026,2,Audio is distorted at higher volume.,Negative
+R096,Zoya,External Drive,12/11/2026,5,Reliable storage and fast file transfers.,Positive
+R097,Dhruv,Lunch Box,12/11/2026,3,"It is practical, but the size is smaller than I expected.",Neutral
+R098,Nisha,Monitor,12/11/2026,1,Dead pixels appeared soon after setup. Not satisfied.,Negative
+R099,Om,Wireless Mouse,12/11/2026,5,Works flawlessly and feels great in hand.,Positive
+R100,Aditi,Notebook,12/11/2026,4,"Good paper, sturdy binding, and neat pages.",Positive
