@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -9,9 +8,7 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 from nltk.corpus import stopwords
 from collections import Counter
 
-# ==========================================
-# 1. PAGE CONFIGURATION
-# ==========================================
+#  PAGE CONFIGURATION
 
 st.set_page_config(
     page_title="Sentiment Analyzer Dashboard",
@@ -19,9 +16,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# ==========================================
-# 2. NLP RESOURCE SETUP
-# ==========================================
+#  NLP RESOURCE SETUP
 
 @st.cache_resource
 def load_nlp_resources():
@@ -46,9 +41,7 @@ except Exception as e:
     st.stop()
 
 
-# ==========================================
-# 3. TEXT PREPROCESSING
-# ==========================================
+# TEXT PREPROCESSING
 
 def clean_text(text):
 
@@ -69,9 +62,7 @@ def clean_text(text):
     return " ".join(words)
 
 
-# ==========================================
-# 4. SENTIMENT CLASSIFICATION
-# ==========================================
+# SENTIMENT CLASSIFICATION
 
 def analyze_sentiment(text):
 
@@ -87,9 +78,7 @@ def analyze_sentiment(text):
         return "Neutral"
 
 
-# ==========================================
-# 5. DATA CLEANING AND ANALYSIS
-# ==========================================
+# DATA CLEANING AND ANALYSIS
 
 def analyze_dataset(data):
 
@@ -147,9 +136,7 @@ def analyze_dataset(data):
     return data
 
 
-# ==========================================
-# 6. DASHBOARD HEADER
-# ==========================================
+# DASHBOARD HEADER
 
 st.title("📊 Customer Sentiment Analyzer")
 
@@ -164,9 +151,7 @@ st.caption(
 st.divider()
 
 
-# ==========================================
-# 7. SIDEBAR AND DATA UPLOAD
-# ==========================================
+# SIDEBAR AND DATA UPLOAD
 
 st.sidebar.title("⚙️ Dashboard Settings")
 
@@ -178,9 +163,7 @@ uploaded_file = st.sidebar.file_uploader(
 )
 
 
-# ==========================================
-# 8. LOAD DATASET
-# ==========================================
+# LOAD DATASET
 
 if uploaded_file is not None:
 
@@ -235,9 +218,7 @@ st.sidebar.metric(
 )
 
 
-# ==========================================
-# 9. KPI SUMMARY
-# ==========================================
+#  KPI SUMMARY
 
 positive = (df["Sentiment"] == "Positive").sum()
 
@@ -279,9 +260,7 @@ col4.metric(
 )
 
 
-# ==========================================
-# 10. SENTIMENT PERCENTAGES
-# ==========================================
+# SENTIMENT PERCENTAGES
 
 st.divider()
 
@@ -305,9 +284,7 @@ col3.metric(
 )
 
 
-# ==========================================
-# 11. SENTIMENT DISTRIBUTION CHARTS
-# ==========================================
+# SENTIMENT DISTRIBUTION CHARTS
 
 st.divider()
 
@@ -364,9 +341,7 @@ with chart2:
     )
 
 
-# ==========================================
-# 12. SENTIMENT SCORE ANALYSIS
-# ==========================================
+# SENTIMENT SCORE ANALYSIS
 
 st.divider()
 
@@ -386,9 +361,7 @@ st.plotly_chart(
 )
 
 
-# ==========================================
-# 13. MOST COMMON WORDS
-# ==========================================
+# MOST COMMON WORDS
 
 st.divider()
 
@@ -427,9 +400,7 @@ else:
     st.info("No words available for analysis.")
 
 
-# ==========================================
-# 14. CUSTOMER REVIEW FILTER
-# ==========================================
+# CUSTOMER REVIEW FILTER
 
 st.divider()
 
@@ -468,9 +439,7 @@ st.caption(
 )
 
 
-# ==========================================
-# 15. DOWNLOAD ANALYZED DATASET
-# ==========================================
+#  DOWNLOAD ANALYZED DATASET
 
 st.divider()
 
@@ -488,9 +457,7 @@ st.download_button(
 )
 
 
-# ==========================================
-# 16. FOOTER
-# ==========================================
+# FOOTER
 
 st.divider()
 
